@@ -10,6 +10,9 @@ qwertyuiosdfghjkxcvbnm,.
 qwertyuioasdfghjk
 sdfghjk
 asdfghjkl
+sdfghj
+asdfghj
+asdfghjm
 asdfghjkl
 asdfghjkl
 zxcvbn
